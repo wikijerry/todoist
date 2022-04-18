@@ -1,0 +1,38 @@
+.container{
+   
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   font-family: cursive;   
+   height: 100vh;
+   width: 50%;
+   background-image: url('https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?t=st=1649755749~exp=1649756349~hmac=5fc0195507ead2f5088d94e820e5fc13c1e784a493ee66fb34344fd9c0b3853d&w=740');
+   background-size: cover;
+   
+}
+h1{
+   text-align: center;
+   color: rgb(62, 211, 211);
+
+}
+
+
+.container #search{
+   border-radius: 15cm;
+   border-style: groove;
+   background-color: rgb(249, 249, 249);
+
+
+}
+ 
+.container #ul{
+   
+}
+
+.container #list{
+   color: rgb(255, 255, 255);
+   list-style-type: none;
+   
+
+}
